@@ -10,5 +10,8 @@ In the project directory, you can run:
 
 Reusable Component Library: A React-based web application that showcases a collection of highly reusable components such as accordions, dropdowns, panels, tables, and various types of buttons. Utilized Tailwind CSS for styling and implemented functional components with Hooks and Reducers for state management. Utilized best practices for component reusability to ensure the library can be easily integrated into other projects. The application serves as a demonstration of my skills in Tailwind, Hooks, Reducers, State Management and Reusability of Components. It is hosted on Netlify.
 Skills: HTML, CSS, JS, React, Tailwind, Hooks, Reducers, State Management and Reusability of Components, Git, Netlify.
+
+
 Link: https://github.com/apurvashekhar96/Reactproject
+site link: https://reactcomponentsapurva.netlify.app/
 

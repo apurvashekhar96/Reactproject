@@ -1,4 +1,3 @@
-import propTypes from "prop-types";
 import className from "classnames";
 
 function Buttons({
